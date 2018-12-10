@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+=======
+<ApexClass xmlns="urn:metadata.tooling.soap.sforce.com" fqn="AccountConr">
+>>>>>>> 9282169e01368bbd2d67c723be6004a9f18c59b8
     <apiVersion>44.0</apiVersion>
     <status>Active</status>
 </ApexClass>
