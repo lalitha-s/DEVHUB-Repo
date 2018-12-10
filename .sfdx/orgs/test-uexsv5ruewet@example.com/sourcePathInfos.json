@@ -562,9 +562,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1544421707425,
-            "changeTime": 1544421707425,
-            "contentHash": "2f135992b98a71290b447d87530336c7289ac8dd"
+            "modifiedTime": 1544425053310,
+            "changeTime": 1544425053310,
+            "contentHash": "4ab0d321b131818e895938d5aaeaf9c5d8d39be6"
         }
     ],
     [
@@ -635,9 +635,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1544421707316,
-            "changeTime": 1544421707316,
-            "contentHash": "e2c55c3d04baec3534809c6a36bd5648b363c119"
+            "modifiedTime": 1544425053231,
+            "changeTime": 1544425053231,
+            "contentHash": "630191e1630944bdbecb18ac53ce6f170a2b2265"
         }
     ],
     [
@@ -737,10 +737,10 @@
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 18338,
-            "modifiedTime": 1544421707542,
-            "changeTime": 1544421707542,
-            "contentHash": "5929e6fbada69952873b54736d298760d648141f"
+            "size": 18337,
+            "modifiedTime": 1544425053414,
+            "changeTime": 1544425053414,
+            "contentHash": "6a6c611b604ed9cb00f7eadd143e464a1b129a56"
         }
     ],
     [
@@ -836,91 +836,156 @@
     [
         "C:\\geolocation\\force-app\\main\\default\\objects\\Contact\\fields\\Descriptor_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Contact\\fields\\Descriptor_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 381,
             "modifiedTime": 1544421707331,
             "changeTime": 1544421707331,
-            "contentHash": "bca2b6825349b548cacab68ed9615ab5f15d7e17"
+            "contentHash": "bca2b6825349b548cacab68ed9615ab5f15d7e17",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9323,
             "modifiedTime": 1544421707347,
             "changeTime": 1544421707347,
-            "contentHash": "98bf3faf91449b0d508ac0299915866a43c6a9a0"
+            "contentHash": "98bf3faf91449b0d508ac0299915866a43c6a9a0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9614,
             "modifiedTime": 1544421707378,
             "changeTime": 1544421707378,
-            "contentHash": "c809aae9cd397bd23a22245548afd0d41281ad1a"
+            "contentHash": "c809aae9cd397bd23a22245548afd0d41281ad1a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9638,
             "modifiedTime": 1544421707409,
             "changeTime": 1544421707409,
-            "contentHash": "90e63e80e74af03bf6a2fc9522d1576aa3f4f6c9"
+            "contentHash": "90e63e80e74af03bf6a2fc9522d1576aa3f4f6c9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9614,
             "modifiedTime": 1544421707425,
             "changeTime": 1544421707425,
-            "contentHash": "2dc8b3970009fe5918d0f004cebad3ada4637878"
+            "contentHash": "2dc8b3970009fe5918d0f004cebad3ada4637878",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\objects\\Contact\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544421707331,
             "changeTime": 1544421707331,
-            "contentHash": "32d610a9a5a453a0768edcecca03fc8979d2353a"
+            "contentHash": "32d610a9a5a453a0768edcecca03fc8979d2353a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\geolocation\\force-app\\main\\default\\objects\\Contact",
         {
-            "state": "u",
             "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544421707316,
             "changeTime": 1544421707316,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ScratchTestField1__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ScratchTestField1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1544425053245,
+            "changeTime": 1544425053245,
+            "contentHash": "f2fda72cd6f1347657236cabe0d390766e7fd5e8"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11915,
+            "modifiedTime": 1544425053277,
+            "changeTime": 1544425053277,
+            "contentHash": "468bb499461b8c737db83a6cb6139e301c272192"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11861,
+            "modifiedTime": 1544425053312,
+            "changeTime": 1544425053312,
+            "contentHash": "d7086becc6bc1daaa03310b40b8978fe191f3878"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544425053243,
+            "changeTime": 1544425053243,
+            "contentHash": "f0fc42da552f3bf3a0824bb1306ec79c3eac088f"
+        }
+    ],
+    [
+        "C:\\geolocation\\force-app\\main\\default\\objects\\Case",
+        {
+            "state": "u",
+            "sourcePath": "C:\\geolocation\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544425053232,
+            "changeTime": 1544425053232,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ]

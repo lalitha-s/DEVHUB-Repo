@@ -7,7 +7,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.Descriptor_Name__c</field>
+        <field>Case.ScratchTestField1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
